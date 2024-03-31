@@ -1,4 +1,4 @@
-# ForwardKinematics
+# Forward Kinematics
 
 ## Introduction
 
@@ -19,3 +19,11 @@ Open `Assets > Scenes > Assignment2.unity` with `Unity3D`. Press the `play` butt
 Below is the reconstructed motion from the BVH file at `Assets > Resources > Bvh > fightAndSports1.bvh`.
 
 ![fight and sports](/Demo/766A2.gif)
+
+Reconstruction of `Assets > Resources > Bvh > running.bvh`:
+
+![running](/Demo/766A202.gif)
+
+Reconstruction of `Assets > Resources > Bvh > jumping.bvh`:
+
+![jumping](/Demo/766A203.gif)
