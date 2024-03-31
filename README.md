@@ -12,10 +12,10 @@ In this assignment, I read hierarchical structure of the joints, and the relativ
 
 ## How to run the code
 
-Open `Assets > Scenes > Assignment2.unity`. Press the `play` button to run the code.
+Open `Assets > Scenes > Assignment2.unity` with `Unity3D`. Press the `play` button to run the code.
 
 ## Demo
 
 Below is the reconstructed motion from the BVH file at `Assets > Resources > Bvh > fightAndSports1.bvh`.
 
-![](/Demo/766A2.gif)
+![fight and sports](/Demo/766A2.gif)
