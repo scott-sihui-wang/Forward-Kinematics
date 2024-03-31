@@ -1,6 +1,6 @@
 # Forward Kinematics
 
-## 1.Introduction
+## 1. Introduction
 
 This is to reconstruct motions of a skeleton from BVH motion capture files.
 
@@ -10,11 +10,11 @@ In this assignment, I read hierarchical structure of the joints, and the relativ
 
 **Skills:** _Unity3D, C#_
 
-## 2.How to run the code
+## 2. How to run the code
 
 Open `Assets > Scenes > Assignment2.unity` with `Unity3D`. Press the `play` button to run the code.
 
-## 3.Demo
+## 3. Demo
 
 Below is the reconstructed motion from the BVH file at `Assets > Resources > Bvh > fightAndSports1.bvh`.
 
